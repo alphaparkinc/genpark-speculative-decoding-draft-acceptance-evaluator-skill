@@ -1,0 +1,12 @@
+{
+  "name": "genpark-speculative-decoding-draft-acceptance-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Rejection sampling and logit verification engine for speculative decoding acceleration.",
+  "category": "Edge AI Quantization & Model Sharding",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-speculative-decoding-draft-acceptance-evaluator-skill",
+  "verified": true,
+  "stars": 8
+}
